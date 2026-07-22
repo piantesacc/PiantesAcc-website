@@ -1,26 +1,12 @@
-# GitHub Pages Website
+# GitHub Pages bilingual website
 
-Αρχεία:
-- index.html
-- vision-mission.html
-- automation.html
-- accounting-tax.html
-- consulting.html
-- style.css
+This package includes fully translated Greek and English pages. The language switch uses flag-style EN/EL buttons in the navigation. Upload all files to the root of the GitHub repository.
 
-Αντικατάστησε τα placeholders:
-- [Όνομα Εταιρείας]
-- [email@company.gr]
-- [τηλέφωνο]
-- [Πόλη / Περιοχή]
 
-Αλλαγή v2:
-- Το επάνω μενού δεν γράφει πλέον "Αυτοματισμοί".
-- Το link αντικαταστάθηκε με "Όραμα και Αποστολή" και οδηγεί στη σελίδα vision-mission.html.
-- Η υπηρεσία Αυτοματοποίηση διαδικασιών παραμένει κανονικά μέσα στο section "Οι υπηρεσίες μας".
+Update v7:
+- Language switch simplified to text buttons: EN on Greek pages and GR on English pages.
+- Flag emojis removed for more consistent display across browsers/devices.
 
-GitHub Pages:
-1. Ανέβασε όλα τα αρχεία στο root του repository.
-2. Πήγαινε Settings > Pages.
-3. Source: Deploy from a branch.
-4. Branch: main, Folder: /root.
+
+Update v8:
+- Expanded the Greek and English Process Automation pages with full content, benefits, service cards, use cases and implementation steps.
